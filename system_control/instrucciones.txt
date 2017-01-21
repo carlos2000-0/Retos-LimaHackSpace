@@ -1,0 +1,5 @@
+Para modificar la hora y minuto de ingreso:
+- Ingresar a main.js
+- modificar variables
+	hhentrada - para la hora
+	mmentrada - para minutos
